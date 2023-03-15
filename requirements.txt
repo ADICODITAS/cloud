@@ -1,2 +1,2 @@
-Python==3.11.0
+Python==3.9.7
 Django==4.0
